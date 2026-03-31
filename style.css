@@ -10,8 +10,8 @@
 }
 .banner .slider{
     position: absolute;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 250px;
     top: 10%;
     left: calc(50% - 50px);
     transform-style: preserve-3d;
